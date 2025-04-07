@@ -1,0 +1,49 @@
+
+NodeJs :- It is a open-Source,cross-platform JavaScript runtime envirnoment that allows you to exexute JavaScript code outside of the web browser.
+      ->  It is bulid on the v8 JavaScript engine which also used by Google chrome, and provides a runtime envirnoment for server-side and network applications.
+	***   So it is not a language and framework or Libary but it is a runtime envirnoment.
+
+Advantages Of NodeJs :-
+-> It is well-suited for building a wide range of dynamic applications, including web applications.User to user interaction is known as dynamic applications.
+-> Authentication :- Authentication is the process of verifying the identify of the user.
+-> Authorization  :- Authorization determines what actions a user is allowed to perform within the application after they have been authenticated.
+-> And user transactions and stored with the help of databases.
+-> User can access there account from any where by using APIs.
+
+1) REPL :- R - Read
+		   E - Eval
+		   P - Print
+		   L - Loop
+This repel helps print JavaScript without any script files.
+->Node runs on server not on browser.
+
+2) CLI :- Command line Interface
+-> Basically it is the process of creating a js file and reading the output in the CLI.
+
+3) Built-in-Modules :- i)OS module
+					  ii)Path module
+					 iii)FS module
+					  iv)HTTP module
+HTTP :-
+
+
+**HTTP** stands for **Hypertext Transfer Protocol**. It’s like a set of rules that lets your computer (or phone, tablet, etc.) communicate with websites.
+
+Here’s how it works:
+
+1. **When you type a website address (URL) in your browser**, like "www.google.com", your browser sends a request to a web server to get the page you're asking for.
+
+2. **The server processes the request** and sends back the requested webpage to your browser. This back-and-forth is done through HTTP.
+
+3. **HTTP is like the language they use to talk**. When your browser sends a request (like asking for a webpage), the server responds with data, such as the text, images, and videos that make up the webpage.
+
+A simple analogy:  
+Think of HTTP as the **postal service**. You write a letter (your request) asking for information (the webpage). The postal service (HTTP) delivers your letter to the person you’re asking (the server). Then, the server writes you back with the information (the webpage).
+
+---
+
+### Key Points:
+- **Request**: When you visit a website, your browser asks for information (HTTP request).
+- **Response**: The server sends the information back to you (HTTP response).
+- **Stateless**: HTTP doesn't remember past requests. Each request is independent, meaning it doesn’t "know" anything about what happened before.
+
