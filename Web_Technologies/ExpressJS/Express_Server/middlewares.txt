@@ -1,0 +1,8 @@
+***Middlewares :- Middlewares in nodejs is like a set of helpers that sit between our web application (or API) and the Server.
+                  They process incomming requests before they reach your apllication'c code and can also modify the outgoing responeses.
+-> Middleware is a functoin which takes three args (req,res,next)
+
+
+###Routes :- In ExpressJs routes are like that tell your web application how to respond to different to different HTTP requests,
+ URLs or endpoints routes are used to define what happens when a user visits a specific URL on our website or make a request to your API.
+Routes help us to organize our application's functionality and determine what content or data should be sent back to the user in reponse to their request.

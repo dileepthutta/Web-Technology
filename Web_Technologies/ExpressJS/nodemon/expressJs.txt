@@ -1,0 +1,18 @@
+In NodeJs we have many frameWorks and one of the frameWork is ExpressJs.
+
+ExpressJs :- A minimalistic Node.Js frameWork for Building Web Applications.
+
+
+npn init :- Node package Manager is used to set a Node Environment.
+
+
+#nodemon package :- It is the Package which Shows the quick Changes in the terminal.
+->We have to add a start key with value of (nodemon file_name)
+>> "start" : "nodemon app.js";
+
+#In terminal use npm start.
+>> npm start
+
+#To Stop the terminal or kill the terminal
+>> ctr+c
+
